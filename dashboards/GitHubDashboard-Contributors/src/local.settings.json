@@ -4,7 +4,6 @@
         "owner": "Azure",
         "repository": "Azure-Governance-Visualizer-Accelerator",
         "resourceGroup": "AzGovViz-CCO-Insights-rg",
-        "storageAccount": "azgovvizcco001",
-        "pat": "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"
+        "storageAccount": "azgovvizcco001"
     }
 }
