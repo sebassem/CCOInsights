@@ -12,6 +12,10 @@ on:
 jobs:
   deploy_dashboard:
     runs-on: windows-2022
+    permissions:
+      contents: read
+      pull-requests: write
+      id-token: write
     name: "Dashboard Backend"
     steps:
       - name: "Checkout"
