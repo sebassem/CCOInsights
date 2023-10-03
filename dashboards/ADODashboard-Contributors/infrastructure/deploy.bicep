@@ -1,5 +1,5 @@
 @description('Base name to be used in all resources')
-param name string = 'cco-ado-contributions'
+param name string = 'cco-azgovviz'
 
 @description('Name of the sotrage account')
 param staname string = 'ccoadocontsta'
